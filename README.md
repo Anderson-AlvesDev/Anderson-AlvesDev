@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🧑🏻‍💻 Anderson Alves
 
-<!--
-**Anderson-AlvesDev/Anderson-AlvesDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Front-End`**
 
-Here are some ideas to get you started:
+Me chamo Anderson Thiago Alves, tenho 31 anos e sou natural de Joinville SC. Atualmente em transição de carreira para a área de programação. Sou apaixonado por tecnologia e compartilho meu conhecimento através de meus repositórios no github.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+  🔭 Buscando meu primeiro emprego na programação <br>
+  🚀 Desenvolvedor Front-End | HTML E CSS <br>
+  💻 Apaixonado por criar interfaces intuitivas e responsivas <br>
+  🛠️ Skills: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" alt="HTML5" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" alt="CSS3" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20" alt="Git" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20" alt="GitHub" />  
+  🌱 Aprendendo sobre <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" alt="JavaScript" />  
+  📫 Contato: anderson_manus@hotmail.com
